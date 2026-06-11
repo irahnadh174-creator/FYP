@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449651094702",
+    "project_id": "muzium-fyp",
+    "storage_bucket": "muzium-fyp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449651094702:android:d097edf754c1694a77693f",
+        "android_client_info": {
+          "package_name": "com.example.muzium_fyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD74Vvuih__il9wxX331Xiu4rPc_cQV7Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
