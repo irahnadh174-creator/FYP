@@ -1,14 +1,20 @@
 import 'package:flutter/material.dart';
 
-/// Central colour palette for the museum app.
-/// Tones follow the gold + dark-brown museum theme used in the quiz screens.
 class AppColors {
-  AppColors._(); // prevent instantiation
+  static const primary = Color(0xFF1D9E75);
+  static const primaryDark = Color(0xFF0F6E56);
 
-  static const Color primary = Color(0xFFD4AF37); // gold accent
-  static const Color dark = Color(0xFF2C1B18); // deep brown
-  static const Color bg = Color(0xFFF5F0E6); // warm cream background
-  static const Color red = Color(0xFFC0392B); // error / fail
-  static const Color blue = Color(0xFF1565C0); // map accent
-  static const Color blueLight = Color(0xFFE3F2FD); // map container fill
+  static const dark = Color(0xFF1A1A2E);
+
+  static const amber = Color(0xFFE89B2B);
+  static const red = Color(0xFFE53935);
+  static const blue = Color(0xFF185FA5);
+
+  static const bg = Color(0xFFF8F7F4);
+  static const card = Color(0xFFF0EBE3);
+  static const border = Color(0xFFE0D5C8);
+
+  static const greenLight = Color(0xFFE1F5EE);
+  static const amberLight = Color(0xFFFAEEDA);
+  static const blueLight = Color(0xFFE6F1FB);
 }
